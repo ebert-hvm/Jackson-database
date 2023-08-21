@@ -1,0 +1,53 @@
+data.json
+# Maven target directory
+target/
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA-specific files
+.idea/
+
+# NetBeans-specific files
+nb-configuration.xml
+
+# Compiled Java classes
+*.class
+
+# Compiled source
+*.jar
+*.war
+*.ear
+
+# Generated build-related files
+build/
+bin/
+out/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Maven-specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Log files
+log/
+
+# IntelliJ IDEA-specific files
+*.iml
+.idea
+*.ipr
+*.iws
+.idea_modules/
+
+# Visual Studio Code-specific files
+.vscode/
